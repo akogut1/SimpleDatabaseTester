@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FailureReportDataBaseDataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="FailureReportDBIntegratedSecurityState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TRUE</Value>
+    </Setting>
+    <Setting Name="FailureReportDataInitialCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FAILURE_REPORT</Value>
+    </Setting>
+    <Setting Name="FailureReportDataBaseFullConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=localhost\SQLEXPRESS;Initial Catalog=FAILURE_REPORT;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="MeterSpecDataBaseFullConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=localhost\SQLEXPRESS;Initial Catalog=METER_SPECS;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="MeterSpecDataBaseInitialCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">METER_SPECS</Value>
+    </Setting>
+    <Setting Name="MeterSpecDataBaseDataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="MeterSpecDBIntegratedSecurityState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="MyUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="AttachmentFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Uslafvs001038\hqa\Software\Failure Report Database\Attachments</Value>
+    </Setting>
+    <Setting Name="GridViewColumnStates" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Index,False;Original ID,False;Anomaly,False;Failure Description,False;Corrective Action,False;Engineering Notes,False;TCC Comments,False</Value>
+    </Setting>
+    <Setting Name="DGVPrintSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DGVPageSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Prompt_To_Change_Database" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RecentFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FAILURE_REPORTConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=localhost\SQLEXPRESS;Initial Catalog=FAILURE_REPORT;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=localhost\SQLEXPRESS;Initial Catalog=FAILURE_REPORT;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

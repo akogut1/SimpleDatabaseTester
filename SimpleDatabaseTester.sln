@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SimpleDatabaseTester", "SimpleDatabaseTester\SimpleDatabaseTester.vbproj", "{2F2543B4-E59C-46E3-A401-D299F0EFC609}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Failure Report Database Setup", "Failure Report Database Setup\Failure Report Database Setup.vdproj", "{3E7BE707-9948-48D6-A29F-0BB81402271A}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Debug|x86.ActiveCfg = Debug|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Debug|x86.Build.0 = Debug|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Release|Any CPU.ActiveCfg = Release|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Release|x86.ActiveCfg = Release|x86
+		{2F2543B4-E59C-46E3-A401-D299F0EFC609}.Release|x86.Build.0 = Release|x86
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Debug|Any CPU.ActiveCfg = Debug
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Debug|x86.ActiveCfg = Debug
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Debug|x86.Build.0 = Debug
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Release|Any CPU.ActiveCfg = Release
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Release|Mixed Platforms.ActiveCfg = Release
+		{3E7BE707-9948-48D6-A29F-0BB81402271A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
